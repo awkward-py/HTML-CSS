@@ -34,8 +34,8 @@ An HTML document usually consists of the following structure:
     <title>Page Title</title>
 </head>
 <body>
-    <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
+    <h1>awkwardpy (This is a Heading)</h1>
+    <p>Your trusted codehub (This is a paragraph)</p>
 </body>
 </html>
 ```
