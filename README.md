@@ -138,6 +138,8 @@ The `<img>` tag is used to embed images in a webpage.
 <img src="image.jpg" alt="Description of the image">
 ```
 
+---
+---
 
 ## Section 3: Understanding CSS
 
